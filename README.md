@@ -66,7 +66,7 @@ Containerized a simple web application using Docker.
 ## 🤝 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/gunjan-chopade/
-- Email: contact.gunjanchopade@gmail.com
+- Email: ```contact.gunjanchopade@gmail.com```
 
 ---
 
