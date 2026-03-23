@@ -1,7 +1,7 @@
 # Hi, I'm *Gunjan Chopade* 👋
 
 🎯 Aspiring Cloud & DevOps Engineer  
-☁️ AWS Cloud Foundations Certified  
+☁️ AWS Cloud Foundations Certified (AWS Academy Graduate)  
 🚀 Passionate about Cloud, Automation & Scalable Systems  
 
 ---
